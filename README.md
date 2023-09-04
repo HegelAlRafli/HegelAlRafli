@@ -33,7 +33,6 @@
 <img align="left" alt="Android Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TWXeRF1b29BsjyfAfvSFw3Wqkgi_eiZUAg&usqp=CAU" />
 <img align="left" alt="Intelij IDEA" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<img align="left" alt="Notion" width="26px" src="https://toppng.com/uploads/preview/notion-logo-11609370405b4cvyz4wit.png" />
 <br />
 <br />
 
