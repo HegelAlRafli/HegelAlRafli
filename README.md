@@ -38,8 +38,8 @@
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=HegelAlRafli&label=Profile%20views&color=0e75b6&style=flat" alt="HegelAlRafli" />
-  
-[![An image of @hegel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hegel)](https://holopin.io/@hegel)
+  [![An image of @hegel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hegel)](https://holopin.io/@hegel)
+  [![@hegel's Holopin board](https://holopin.me/hegel)](https://holopin.io/@hegel)
 
 
 <!---
